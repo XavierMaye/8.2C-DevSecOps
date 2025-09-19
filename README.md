@@ -1,4 +1,4 @@
-# Goof - Snyk's vulnerable demo app - changed-1
+# Goof - Snyk's vulnerable demo app - changed-2
 [![Known Vulnerabilities](https://snyk.io/test/github/snyk/goof/badge.svg?style=flat-square)](https://snyk.io/test/github/snyk/goof)
 
 A vulnerable Node.js demo application, based on the [Dreamers Lab tutorial](http://dreamerslab.com/blog/en/write-a-todo-list-with-express-and-mongodb/).
